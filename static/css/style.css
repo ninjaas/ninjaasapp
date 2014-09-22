@@ -185,4 +185,5 @@ img.lead{
   display: block;
   border:2px solid #ddd;
   border-radius:5px;
+  max-width: 200px;
 }
