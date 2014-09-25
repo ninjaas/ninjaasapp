@@ -1,0 +1,22 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:300,400,700);
+
+body{
+  font-family:"Ubuntu",san-sarif;
+  padding: 10px;
+  text-align:center;
+}
+
+h1,h2,h3,h4,h5,h6{
+  padding:10px 0px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+}
+a {
+  color:#666;
+  text-decoration:none;
+  font-size:1.2em;
+  font-wight:700;
+}
